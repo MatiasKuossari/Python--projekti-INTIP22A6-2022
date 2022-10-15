@@ -8,5 +8,3 @@ Ohjelmassa on aina kaksi vaihtoehtoa, ja riippuen kumman valitset joudut erilais
 On tapoja läpäistä peli vaikeammin ja helpommin.
 Ohjelma siis kysyy sinulta mitä haluat tehdä, ja jos johonkin valintaan on asetettu numeroraja siihen voiko sen tehdä vai ei, ohjelma kysyy sinua heittämään noppaa.
 Nopan heittäminen antaa sinulle satunnaisesti numeron 1-20 väliltä. Jos saat pienemmän numeron kun on vaadittu kyseiseen valintaan, et pysty tekemään sitä.
-
-https://github.com/MatiasKuossari/Python--projekti-INTIP22A6-2022
